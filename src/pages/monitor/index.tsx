@@ -41,9 +41,9 @@ const MonitorPage = () => {
     const [RoomID, setRoomID]: any = useState();
     const [StreamID, setStreamID]: any = useState();
 
-    const secrete = "47270deaf2ea66afa6e26a146ff3b4a4";
-    let appID = 150245451;
-    let server = "wss://webliveroom150245451-api.coolzcloud.com/ws";
+    const secrete = "e3bfabe9e7afa5dcc7d1cc8425b2944b";
+    let appID = 470447629;
+    let server = "wss://webliveroom470447629-api.coolzcloud.com/ws";
     let zg = null;
     let remoteStream = null;
     let videoCodec = "H264";
